@@ -6,7 +6,7 @@
 * Falcon
 * Hank Pym
 * Hawkeye
-* Hulk
+* Hulka
 * Iron Man
 * Luke Cage
 * QuickSilver
@@ -16,5 +16,4 @@
 * Vision
 * Wasp
 * Antman
-* El enano Bueno
 * Nick flury
