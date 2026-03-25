@@ -16,3 +16,5 @@
 * Vision
 * Wasp
 * Antman
+* El enano Bueno
+* Nick flury
